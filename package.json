@@ -1,0 +1,15 @@
+{
+  "name": "rabbitmq-simplemsg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "theokeles",
+  "license": "ISC"
+}
